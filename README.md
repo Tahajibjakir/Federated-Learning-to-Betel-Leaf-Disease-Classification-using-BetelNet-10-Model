@@ -19,4 +19,46 @@ efficacy in disease detection.
 The UI has been designed by Gradio
 ![Image](https://github.com/user-attachments/assets/9147ddac-031a-4c45-94dd-c931b9cff9ab)
 
+## Project Methodology Diagram
+![Image](https://github.com/user-attachments/assets/1528283d-f6da-48a0-bac2-1b8641ee84e0)
+
+## Features
+🔒 Federated Learning Framework: Trains models on decentralized client data to ensure data privacy and security.
+
+🧠 Custom BetelNet-10 Model: Lightweight CNN optimized for detecting diseases in both betel leaves and vines using variable kernel sizes.
+
+🌿 Comprehensive Dataset: ~6,000 augmented images collected from real betel farms, categorized into 5 disease classes.
+
+📱 Web & Mobile App Integration: Real-time disease prediction through an intuitive Gradio-based interface.
+
+📈 High Accuracy: Achieves up to 99% accuracy on local models and 89% on the global model with strong generalization.
+
+🧪 Robust Evaluation: Includes precision, recall, F1-score, confusion matrix, and comparative performance analysis.
+
+🔄 Scalable Architecture: Easily extendable to more clients or different crops while preserving performance and privacy.
+
+## Installation
+Not allowed at this time.
+
+## Model Details
+![Image](https://github.com/user-attachments/assets/4f7b4760-062f-4c50-a806-294d110a3703)
+
+## Contact / Credits
+Developed by Tahajib Jakir Khan  
+📧 tahajibjakirkhan00@gmail.com 
+📎 [LinkedIn](https://www.linkedin.com/in/tahajib-jakir-khan-53b30822b/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
